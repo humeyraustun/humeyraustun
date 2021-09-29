@@ -4,7 +4,7 @@
 - 🐣: I love learning 
 - 🪐: Think deeply, be bold and help others.
 
-## :heads-down: Social
+## 👀 Social
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/humeyra-u-046572215/)
 [<img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>](hackerrank.com/shumeyr)
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:shumeyr@gmail.com)
