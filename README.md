@@ -1,14 +1,15 @@
 
-## Hi there. I'm Mehmet...:wave:
-- :telescope: I’m currently working on Data Analyses
-- :seedling: I’m currently learning Data Analyses tools
-- :speech_balloon: I am happy to teach you what I know and eager to learn what you will offer
-## :man::woman: Social
-[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmet-durular/)
-[<img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>](https://www.hackerrank.com/mdrlr46)
-[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:mdrlr46@gmail.com)
+## Hi there. I'm Humeyra...:sunglasses:
+- 🤸‍♀️ I’m currently working on Data Science
+- 🐣: I love learning 
+- 🪐: Think deeply, be bold and help others.
+
+## :heads-down: Social
+[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/humeyra-u-046572215/)
+[<img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>](hackerrank.com/shumeyr)
+[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:shumeyr@gmail.com)
 [![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://mdurular.medium.com)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdurular" alt="mdurular" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=humeyraustun" alt="humeyraustun" /> </p>
 
 ## 💻 Data Visualization
 
