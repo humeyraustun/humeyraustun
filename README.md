@@ -8,8 +8,8 @@
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/humeyra-u-046572215/)
 [<img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>](https://www.hackerrank.com/shumeyr)
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:shumeyr@gmail.com)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=humeyraustun" alt="humeyraustun" /> </p>
 <a href="https://public.tableau.com/app/profile/humeyra" target="_blank"> <img src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" alt="Tableau" height="30"/> </a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=humeyraustun" alt="humeyraustun" /> </p>
 
 ## 💻 Data Visualization
 
