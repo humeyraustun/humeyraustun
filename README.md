@@ -9,6 +9,7 @@
 [<img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>](https://www.hackerrank.com/shumeyr)
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:shumeyr@gmail.com)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=humeyraustun" alt="humeyraustun" /> </p>
+<a href="https://public.tableau.com/app/profile/humeyra" target="_blank"> <img src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" alt="Tableau" height="30"/> </a>
 
 ## 💻 Data Visualization
 
@@ -23,6 +24,7 @@
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas" height="80"/> </a>
 <a href="#" target="_blank"> <img src="https://bids.berkeley.edu/sites/default/files/styles/250x140/public/projects/scipy_logo_450x254.png?itok=iYqgsiQs" width="120" height="100"/> </a>
 <a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="140"/> </a>
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit Learn" width="120"/> </a>
 ## 💻 Languages
 
 <a href="#" target="_blank"> <img src="https://download.logo.wine/logo/Python_(programming_language)/Python_(programming_language)-Logo.wine.png" alt="Python" width="150"/> </a>
